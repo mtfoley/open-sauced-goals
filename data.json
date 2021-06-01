@@ -7,15 +7,15 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5390,
-    "open_issues_count": 71,
-    "forks_count": 1227
+    "stargazers_count": 5399,
+    "open_issues_count": 72,
+    "forks_count": 1228
   },
   {
     "full_name": "all-contributors/app",
     "stargazers_count": 377,
     "open_issues_count": 59,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "dhh/conductor",
@@ -26,19 +26,19 @@
   {
     "full_name": "builders-club/onlythemes",
     "stargazers_count": 11,
-    "open_issues_count": 16,
+    "open_issues_count": 18,
     "forks_count": 9
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
     "stargazers_count": 1485,
-    "open_issues_count": 87,
-    "forks_count": 54011
+    "open_issues_count": 90,
+    "forks_count": 54080
   },
   {
     "full_name": "FiniteSingularity/tau",
     "stargazers_count": 30,
-    "open_issues_count": 18,
-    "forks_count": 14
+    "open_issues_count": 19,
+    "forks_count": 15
   }
 ]
