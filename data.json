@@ -1,19 +1,19 @@
 [
   {
     "full_name": "open-sauced/slaybot",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 8,
     "forks_count": 1
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5412,
+    "stargazers_count": 5420,
     "open_issues_count": 73,
-    "forks_count": 1230
+    "forks_count": 1236
   },
   {
     "full_name": "all-contributors/app",
-    "stargazers_count": 378,
+    "stargazers_count": 379,
     "open_issues_count": 59,
     "forks_count": 106
   },
@@ -21,7 +21,7 @@
     "full_name": "dhh/conductor",
     "stargazers_count": 65,
     "open_issues_count": 2,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "builders-club/onlythemes",
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1485,
-    "open_issues_count": 95,
-    "forks_count": 54136
+    "stargazers_count": 1486,
+    "open_issues_count": 97,
+    "forks_count": 54194
   },
   {
     "full_name": "FiniteSingularity/tau",
-    "stargazers_count": 31,
-    "open_issues_count": 17,
+    "stargazers_count": 33,
+    "open_issues_count": 12,
     "forks_count": 15
   }
 ]
