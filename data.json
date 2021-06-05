@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "jakedohm/vue-accessible-tabs",
+    "stargazers_count": 26,
+    "open_issues_count": 7,
+    "forks_count": 1
+  },
+  {
     "full_name": "open-sauced/slaybot",
     "stargazers_count": 16,
     "open_issues_count": 8,
@@ -9,7 +15,7 @@
     "full_name": "all-contributors/all-contributors",
     "stargazers_count": 5420,
     "open_issues_count": 73,
-    "forks_count": 1236
+    "forks_count": 1235
   },
   {
     "full_name": "all-contributors/app",
@@ -33,12 +39,12 @@
     "full_name": "nightscout/cgm-remote-monitor",
     "stargazers_count": 1486,
     "open_issues_count": 97,
-    "forks_count": 54194
+    "forks_count": 54202
   },
   {
     "full_name": "FiniteSingularity/tau",
     "stargazers_count": 33,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 15
   }
 ]
