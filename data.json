@@ -13,13 +13,13 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5427,
+    "stargazers_count": 5430,
     "open_issues_count": 73,
-    "forks_count": 1241
+    "forks_count": 1240
   },
   {
     "full_name": "all-contributors/app",
-    "stargazers_count": 381,
+    "stargazers_count": 382,
     "open_issues_count": 59,
     "forks_count": 107
   },
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1486,
-    "open_issues_count": 97,
-    "forks_count": 54292
+    "stargazers_count": 1487,
+    "open_issues_count": 98,
+    "forks_count": 54339
   },
   {
     "full_name": "FiniteSingularity/tau",
-    "stargazers_count": 37,
-    "open_issues_count": 15,
+    "stargazers_count": 38,
+    "open_issues_count": 14,
     "forks_count": 16
   }
 ]
