@@ -13,8 +13,8 @@
   },
   {
     "full_name": "snowpackjs/snowpack",
-    "stargazers_count": 19118,
-    "open_issues_count": 272,
+    "stargazers_count": 19128,
+    "open_issues_count": 273,
     "forks_count": 948
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 4139,
-    "open_issues_count": 25,
-    "forks_count": 171
+    "stargazers_count": 4152,
+    "open_issues_count": 23,
+    "forks_count": 172
   },
   {
     "full_name": "bdougie/take-action",
@@ -44,7 +44,7 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 482,
-    "open_issues_count": 36,
+    "open_issues_count": 35,
     "forks_count": 138
   },
   {
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 39553,
-    "open_issues_count": 737,
-    "forks_count": 4986
+    "stargazers_count": 39568,
+    "open_issues_count": 732,
+    "forks_count": 4987
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 20721,
-    "open_issues_count": 257,
-    "forks_count": 2861
+    "stargazers_count": 20731,
+    "open_issues_count": 260,
+    "forks_count": 2860
   }
 ]
