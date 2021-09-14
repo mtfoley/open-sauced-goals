@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "conventional-changelog/conventional-changelog",
+    "stargazers_count": 5721,
+    "open_issues_count": 203,
+    "forks_count": 581
+  },
+  {
     "full_name": "open-sauced/actions",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -8,8 +14,8 @@
   {
     "full_name": "jasonericdavis/FF_Picker",
     "stargazers_count": 1,
-    "open_issues_count": 5,
-    "forks_count": 1
+    "open_issues_count": 10,
+    "forks_count": 2
   },
   {
     "full_name": "chadstewart/tech-is-hiring-website",
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "snowpackjs/snowpack",
-    "stargazers_count": 19165,
-    "open_issues_count": 280,
-    "forks_count": 950
+    "stargazers_count": 19180,
+    "open_issues_count": 282,
+    "forks_count": 949
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 4206,
+    "stargazers_count": 4217,
     "open_issues_count": 23,
     "forks_count": 172
   },
@@ -50,7 +56,7 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 485,
-    "open_issues_count": 30,
+    "open_issues_count": 29,
     "forks_count": 140
   },
   {
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 39637,
-    "open_issues_count": 735,
-    "forks_count": 5002
+    "stargazers_count": 39648,
+    "open_issues_count": 737,
+    "forks_count": 5005
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 20761,
+    "stargazers_count": 20765,
     "open_issues_count": 260,
     "forks_count": 2866
   }
