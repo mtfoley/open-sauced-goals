@@ -2,7 +2,7 @@
   {
     "full_name": "open-sauced/actions",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5646,
+    "stargazers_count": 5651,
     "open_issues_count": 82,
     "forks_count": 1348
   },
   {
     "full_name": "all-contributors/app",
-    "stargazers_count": 401,
+    "stargazers_count": 403,
     "open_issues_count": 62,
     "forks_count": 120
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1557,
+    "stargazers_count": 1559,
     "open_issues_count": 139,
-    "forks_count": 56626
+    "forks_count": 56640
   },
   {
     "full_name": "Team-TAU/tau",
