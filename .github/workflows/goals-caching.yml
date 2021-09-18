@@ -12,8 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Build
-      run: npm install
     - uses: mtfoley/actions/goals-caching@feat-update-goal-titles
       if: github.repository_owner	!= 'open-sauced'
       env:
