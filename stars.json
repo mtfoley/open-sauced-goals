@@ -2,13 +2,13 @@
   {
     "full_name": "netlify/netlify-cms",
     "stargazers_count": 14469,
-    "open_issues_count": 626,
-    "forks_count": 2484
+    "open_issues_count": 627,
+    "forks_count": 2487
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 5744,
-    "open_issues_count": 206,
+    "stargazers_count": 5746,
+    "open_issues_count": 207,
     "forks_count": 583
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "snowpackjs/snowpack",
-    "stargazers_count": 19235,
+    "stargazers_count": 19239,
     "open_issues_count": 291,
-    "forks_count": 951
+    "forks_count": 952
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 4231,
-    "open_issues_count": 19,
+    "stargazers_count": 4232,
+    "open_issues_count": 20,
     "forks_count": 172
   },
   {
@@ -80,12 +80,12 @@
   {
     "full_name": "babel/babel",
     "stargazers_count": 39685,
-    "open_issues_count": 741,
-    "forks_count": 5017
+    "open_issues_count": 742,
+    "forks_count": 5020
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 20775,
+    "stargazers_count": 20777,
     "open_issues_count": 260,
     "forks_count": 2868
   }
