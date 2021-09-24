@@ -1,15 +1,15 @@
 [
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 14470,
-    "open_issues_count": 627,
-    "forks_count": 2487
+    "stargazers_count": 14476,
+    "open_issues_count": 629,
+    "forks_count": 2489
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 5746,
+    "stargazers_count": 5749,
     "open_issues_count": 207,
-    "forks_count": 583
+    "forks_count": 586
   },
   {
     "full_name": "open-sauced/actions",
@@ -20,7 +20,7 @@
   {
     "full_name": "jasonericdavis/FF_Picker",
     "stargazers_count": 1,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "snowpackjs/snowpack",
-    "stargazers_count": 19242,
+    "stargazers_count": 19269,
     "open_issues_count": 291,
-    "forks_count": 952
+    "forks_count": 951
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 4232,
-    "open_issues_count": 20,
+    "stargazers_count": 4233,
+    "open_issues_count": 21,
     "forks_count": 172
   },
   {
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 489,
-    "open_issues_count": 32,
+    "stargazers_count": 490,
+    "open_issues_count": 34,
     "forks_count": 140
   },
   {
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 39687,
-    "open_issues_count": 743,
-    "forks_count": 5021
+    "stargazers_count": 39695,
+    "open_issues_count": 748,
+    "forks_count": 5025
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 20777,
-    "open_issues_count": 259,
-    "forks_count": 2868
+    "stargazers_count": 20783,
+    "open_issues_count": 260,
+    "forks_count": 2869
   }
 ]
