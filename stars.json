@@ -14,20 +14,20 @@
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 1,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 845,
+    "stargazers_count": 846,
     "open_issues_count": 23,
     "forks_count": 202
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 14521,
+    "stargazers_count": 14522,
     "open_issues_count": 617,
-    "forks_count": 2500
+    "forks_count": 2501
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "snowpackjs/snowpack",
-    "stargazers_count": 19330,
-    "open_issues_count": 298,
+    "stargazers_count": 19329,
+    "open_issues_count": 299,
     "forks_count": 957
   },
   {
@@ -86,7 +86,7 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 492,
-    "open_issues_count": 32,
+    "open_issues_count": 33,
     "forks_count": 143
   },
   {
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 39741,
-    "open_issues_count": 748,
-    "forks_count": 5044
+    "stargazers_count": 39745,
+    "open_issues_count": 745,
+    "forks_count": 5048
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 20801,
+    "stargazers_count": 20802,
     "open_issues_count": 260,
     "forks_count": 2877
   }

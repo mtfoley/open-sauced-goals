@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "juicyfx/vercel-php",
+    "stargazers_count": 543,
+    "open_issues_count": 14,
+    "forks_count": 61
+  },
+  {
     "full_name": "open-sauced/actions",
     "stargazers_count": 3,
     "open_issues_count": 2,
@@ -13,21 +19,21 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5697,
+    "stargazers_count": 5698,
     "open_issues_count": 87,
-    "forks_count": 1369
+    "forks_count": 1372
   },
   {
     "full_name": "all-contributors/app",
     "stargazers_count": 404,
-    "open_issues_count": 63,
-    "forks_count": 122
+    "open_issues_count": 64,
+    "forks_count": 124
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
     "stargazers_count": 1571,
     "open_issues_count": 155,
-    "forks_count": 57073
+    "forks_count": 57077
   },
   {
     "full_name": "Team-TAU/tau",
