@@ -1,20 +1,8 @@
 [
   {
-    "full_name": "netlify/cli",
-    "stargazers_count": 1212,
-    "open_issues_count": 198,
-    "forks_count": 259
-  },
-  {
-    "full_name": "redwoodjs/redwood",
-    "stargazers_count": 9417,
-    "open_issues_count": 305,
-    "forks_count": 398
-  },
-  {
     "full_name": "juicyfx/vercel-php",
     "stargazers_count": 547,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 61
   },
   {
@@ -31,25 +19,25 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 5715,
+    "stargazers_count": 5727,
     "open_issues_count": 87,
-    "forks_count": 1377
+    "forks_count": 1385
   },
   {
     "full_name": "all-contributors/app",
     "stargazers_count": 405,
-    "open_issues_count": 63,
+    "open_issues_count": 64,
     "forks_count": 124
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1573,
-    "open_issues_count": 157,
-    "forks_count": 57297
+    "stargazers_count": 1574,
+    "open_issues_count": 104,
+    "forks_count": 57385
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 19,
     "forks_count": 19
   }
