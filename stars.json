@@ -9,7 +9,7 @@
     "full_name": "aws/jsii",
     "stargazers_count": 1612,
     "open_issues_count": 222,
-    "forks_count": 127
+    "forks_count": 128
   },
   {
     "full_name": "juicyfx/vercel-php",
@@ -20,20 +20,20 @@
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 4,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 857,
+    "stargazers_count": 858,
     "open_issues_count": 23,
     "forks_count": 204
   },
   {
     "full_name": "netlify/netlify-cms",
     "stargazers_count": 14562,
-    "open_issues_count": 622,
-    "forks_count": 2521
+    "open_issues_count": 623,
+    "forks_count": 2522
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "snowpackjs/snowpack",
-    "stargazers_count": 19393,
+    "stargazers_count": 19395,
     "open_issues_count": 311,
     "forks_count": 963
   },
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 4398,
-    "open_issues_count": 33,
+    "stargazers_count": 4399,
+    "open_issues_count": 32,
     "forks_count": 173
   },
   {
@@ -92,7 +92,7 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 495,
-    "open_issues_count": 29,
+    "open_issues_count": 27,
     "forks_count": 144
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 39797,
-    "open_issues_count": 747,
-    "forks_count": 5066
+    "stargazers_count": 39799,
+    "open_issues_count": 748,
+    "forks_count": 5065
   },
   {
     "full_name": "mochajs/mocha",
     "stargazers_count": 20822,
     "open_issues_count": 260,
-    "forks_count": 2889
+    "forks_count": 2888
   }
 ]
