@@ -13,9 +13,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 40199,
-    "open_issues_count": 579,
-    "forks_count": 6673
+    "stargazers_count": 40213,
+    "open_issues_count": 577,
+    "forks_count": 6672
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 1739,
-    "open_issues_count": 242,
+    "stargazers_count": 1740,
+    "open_issues_count": 243,
     "forks_count": 137
   },
   {
     "full_name": "juicyfx/vercel-php",
     "stargazers_count": 576,
     "open_issues_count": 14,
-    "forks_count": 69
+    "forks_count": 68
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 929,
+    "stargazers_count": 930,
     "open_issues_count": 18,
     "forks_count": 228
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 14791,
+    "stargazers_count": 14797,
     "open_issues_count": 632,
-    "forks_count": 2606
+    "forks_count": 2607
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 5983,
+    "stargazers_count": 5987,
     "open_issues_count": 221,
-    "forks_count": 610
+    "forks_count": 611
   },
   {
     "full_name": "open-sauced/actions",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "withastro/snowpack",
-    "stargazers_count": 19613,
+    "stargazers_count": 19610,
     "open_issues_count": 343,
     "forks_count": 983
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 4650,
+    "stargazers_count": 4657,
     "open_issues_count": 30,
     "forks_count": 186
   },
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 40151,
-    "open_issues_count": 774,
-    "forks_count": 5157
+    "stargazers_count": 40157,
+    "open_issues_count": 776,
+    "forks_count": 5155
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 21004,
+    "stargazers_count": 21006,
     "open_issues_count": 267,
     "forks_count": 2910
   }
