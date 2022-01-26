@@ -1,7 +1,7 @@
 [
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 1653,
+    "stargazers_count": 1656,
     "open_issues_count": 125,
     "forks_count": 80
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 32668,
-    "open_issues_count": 384,
-    "forks_count": 1452
+    "stargazers_count": 32718,
+    "open_issues_count": 385,
+    "forks_count": 1455
   },
   {
     "full_name": "open-sauced/hot",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 17079,
-    "open_issues_count": 163,
-    "forks_count": 1193
+    "stargazers_count": 17083,
+    "open_issues_count": 162,
+    "forks_count": 1195
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 40613,
-    "open_issues_count": 591,
-    "forks_count": 6746
+    "stargazers_count": 40629,
+    "open_issues_count": 596,
+    "forks_count": 6748
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -61,31 +61,31 @@
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 1771,
+    "stargazers_count": 1773,
     "open_issues_count": 235,
     "forks_count": 140
   },
   {
     "full_name": "juicyfx/vercel-php",
-    "stargazers_count": 583,
+    "stargazers_count": 585,
     "open_issues_count": 17,
     "forks_count": 69
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 948,
+    "stargazers_count": 950,
     "open_issues_count": 19,
     "forks_count": 239
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 14897,
+    "stargazers_count": 14903,
     "open_issues_count": 643,
-    "forks_count": 2632
+    "forks_count": 2633
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6038,
+    "stargazers_count": 6037,
     "open_issues_count": 219,
     "forks_count": 613
   },
@@ -98,7 +98,7 @@
   {
     "full_name": "jasonericdavis/FF_Picker",
     "stargazers_count": 1,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 2
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "withastro/snowpack",
-    "stargazers_count": 19672,
+    "stargazers_count": 19676,
     "open_issues_count": 360,
-    "forks_count": 987
+    "forks_count": 989
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 4743,
-    "open_issues_count": 30,
-    "forks_count": 186
+    "stargazers_count": 4747,
+    "open_issues_count": 29,
+    "forks_count": 187
   },
   {
     "full_name": "bdougie/take-action",
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 40306,
-    "open_issues_count": 777,
-    "forks_count": 5192
+    "stargazers_count": 40311,
+    "open_issues_count": 779,
+    "forks_count": 5193
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 21085,
+    "stargazers_count": 21084,
     "open_issues_count": 262,
-    "forks_count": 2922
+    "forks_count": 2924
   }
 ]
