@@ -1,15 +1,15 @@
 [
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 41139,
-    "open_issues_count": 621,
-    "forks_count": 6828
+    "stargazers_count": 41154,
+    "open_issues_count": 619,
+    "forks_count": 6829
   },
   {
     "full_name": "actions/typescript-action",
     "stargazers_count": 975,
     "open_issues_count": 22,
-    "forks_count": 252
+    "forks_count": 253
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6052,
+    "stargazers_count": 6055,
     "open_issues_count": 82,
-    "forks_count": 1474
+    "forks_count": 1475
   },
   {
     "full_name": "all-contributors/app",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1745,
+    "stargazers_count": 1747,
     "open_issues_count": 156,
-    "forks_count": 62404
+    "forks_count": 62420
   },
   {
     "full_name": "Team-TAU/tau",
