@@ -7,39 +7,39 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 1816,
-    "open_issues_count": 144,
-    "forks_count": 84
+    "stargazers_count": 1817,
+    "open_issues_count": 142,
+    "forks_count": 86
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
     "stargazers_count": 126,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 8
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 38377,
-    "open_issues_count": 561,
-    "forks_count": 1737
+    "stargazers_count": 38450,
+    "open_issues_count": 556,
+    "forks_count": 1740
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 71,
-    "open_issues_count": 22,
+    "stargazers_count": 74,
+    "open_issues_count": 23,
     "forks_count": 24
   },
   {
     "full_name": "dequelabs/axe-core",
-    "stargazers_count": 4544,
-    "open_issues_count": 203,
+    "stargazers_count": 4547,
+    "open_issues_count": 200,
     "forks_count": 625
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 18131,
-    "open_issues_count": 130,
-    "forks_count": 1281
+    "stargazers_count": 18157,
+    "open_issues_count": 134,
+    "forks_count": 1282
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 42604,
+    "stargazers_count": 42637,
     "open_issues_count": 643,
-    "forks_count": 7143
+    "forks_count": 7150
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -67,31 +67,31 @@
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 1947,
-    "open_issues_count": 239,
+    "stargazers_count": 1951,
+    "open_issues_count": 240,
     "forks_count": 162
   },
   {
     "full_name": "vercel-community/php",
-    "stargazers_count": 666,
-    "open_issues_count": 19,
-    "forks_count": 89
+    "stargazers_count": 667,
+    "open_issues_count": 20,
+    "forks_count": 90
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1052,
-    "open_issues_count": 30,
+    "stargazers_count": 1056,
+    "open_issues_count": 31,
     "forks_count": 284
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 15327,
-    "open_issues_count": 710,
-    "forks_count": 2758
+    "stargazers_count": 15329,
+    "open_issues_count": 712,
+    "forks_count": 2755
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6318,
+    "stargazers_count": 6324,
     "open_issues_count": 228,
     "forks_count": 631
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "FredKSchott/snowpack",
-    "stargazers_count": 19804,
+    "stargazers_count": 19805,
     "open_issues_count": 394,
     "forks_count": 1001
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 5459,
+    "stargazers_count": 5472,
     "open_issues_count": 42,
     "forks_count": 203
   },
@@ -135,19 +135,19 @@
     "full_name": "bdougie/take-action",
     "stargazers_count": 27,
     "open_issues_count": 2,
-    "forks_count": 10
+    "forks_count": 9
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 99,
+    "stargazers_count": 104,
     "open_issues_count": 17,
     "forks_count": 27
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 661,
-    "open_issues_count": 17,
-    "forks_count": 263
+    "stargazers_count": 662,
+    "open_issues_count": 18,
+    "forks_count": 266
   },
   {
     "full_name": "anuraghazra/design-patterns-everyday",
@@ -163,14 +163,14 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 40881,
-    "open_issues_count": 810,
-    "forks_count": 5329
+    "stargazers_count": 40889,
+    "open_issues_count": 811,
+    "forks_count": 5331
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 21379,
+    "stargazers_count": 21386,
     "open_issues_count": 270,
-    "forks_count": 2949
+    "forks_count": 2951
   }
 ]
