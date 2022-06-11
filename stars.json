@@ -13,8 +13,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 1828,
-    "open_issues_count": 140,
+    "stargazers_count": 1831,
+    "open_issues_count": 142,
     "forks_count": 86
   },
   {
@@ -25,31 +25,31 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 38878,
-    "open_issues_count": 552,
-    "forks_count": 1760
+    "stargazers_count": 38996,
+    "open_issues_count": 555,
+    "forks_count": 1768
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 75,
-    "open_issues_count": 21,
-    "forks_count": 27
+    "stargazers_count": 81,
+    "open_issues_count": 20,
+    "forks_count": 29
   },
   {
     "full_name": "dequelabs/axe-core",
-    "stargazers_count": 4564,
+    "stargazers_count": 4567,
     "open_issues_count": 214,
     "forks_count": 638
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 18259,
+    "stargazers_count": 18276,
     "open_issues_count": 143,
-    "forks_count": 1298
+    "forks_count": 1299
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 5,
     "forks_count": 11
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 42830,
+    "stargazers_count": 42874,
     "open_issues_count": 661,
-    "forks_count": 7178
+    "forks_count": 7194
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 1969,
+    "stargazers_count": 1974,
     "open_issues_count": 243,
     "forks_count": 162
   },
   {
     "full_name": "vercel-community/php",
-    "stargazers_count": 674,
-    "open_issues_count": 21,
-    "forks_count": 93
+    "stargazers_count": 675,
+    "open_issues_count": 20,
+    "forks_count": 94
   },
   {
     "full_name": "actions/typescript-action",
     "stargazers_count": 1068,
     "open_issues_count": 30,
-    "forks_count": 286
+    "forks_count": 287
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 15374,
-    "open_issues_count": 712,
+    "stargazers_count": 15381,
+    "open_issues_count": 714,
     "forks_count": 2763
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6353,
+    "stargazers_count": 6364,
     "open_issues_count": 226,
-    "forks_count": 632
+    "forks_count": 635
   },
   {
     "full_name": "open-sauced/actions",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "FredKSchott/snowpack",
-    "stargazers_count": 19802,
+    "stargazers_count": 19807,
     "open_issues_count": 394,
-    "forks_count": 1000
+    "forks_count": 999
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 5532,
-    "open_issues_count": 40,
+    "stargazers_count": 5539,
+    "open_issues_count": 41,
     "forks_count": 203
   },
   {
     "full_name": "bdougie/take-action",
-    "stargazers_count": 28,
-    "open_issues_count": 2,
+    "stargazers_count": 32,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 106,
+    "stargazers_count": 110,
     "open_issues_count": 18,
     "forks_count": 28
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 671,
-    "open_issues_count": 16,
-    "forks_count": 280
+    "stargazers_count": 678,
+    "open_issues_count": 17,
+    "forks_count": 284
   },
   {
     "full_name": "anuraghazra/design-patterns-everyday",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "babel/babel",
-    "stargazers_count": 40942,
-    "open_issues_count": 817,
-    "forks_count": 5346
+    "stargazers_count": 40955,
+    "open_issues_count": 814,
+    "forks_count": 5350
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 21417,
+    "stargazers_count": 21423,
     "open_issues_count": 269,
-    "forks_count": 2949
+    "forks_count": 2950
   }
 ]
