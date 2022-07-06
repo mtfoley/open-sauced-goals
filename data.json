@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "httpie/httpie",
+    "stargazers_count": 22354,
+    "open_issues_count": 111,
+    "forks_count": 3686
+  },
+  {
+    "full_name": "brob/plug11ty.com",
+    "stargazers_count": 10,
+    "open_issues_count": 7,
+    "forks_count": 16
+  },
+  {
     "full_name": "prometheus/prometheus",
     "stargazers_count": 43229,
     "open_issues_count": 654,
