@@ -19,7 +19,7 @@
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 30,
     "forks_count": 23
   },
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 1867,
-    "open_issues_count": 119,
+    "stargazers_count": 1868,
+    "open_issues_count": 116,
     "forks_count": 87
   },
   {
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 39963,
-    "open_issues_count": 565,
-    "forks_count": 1851
+    "stargazers_count": 39985,
+    "open_issues_count": 567,
+    "forks_count": 1856
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 28,
     "forks_count": 32
   },
   {
     "full_name": "dequelabs/axe-core",
-    "stargazers_count": 4608,
-    "open_issues_count": 217,
+    "stargazers_count": 4610,
+    "open_issues_count": 219,
     "forks_count": 646
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 18540,
-    "open_issues_count": 136,
+    "stargazers_count": 18549,
+    "open_issues_count": 134,
     "forks_count": 1314
   },
   {
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 43314,
-    "open_issues_count": 661,
-    "forks_count": 7280
+    "stargazers_count": 43332,
+    "open_issues_count": 664,
+    "forks_count": 7279
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 1997,
-    "open_issues_count": 246,
+    "stargazers_count": 1999,
+    "open_issues_count": 248,
     "forks_count": 170
   },
   {
     "full_name": "vercel-community/php",
     "stargazers_count": 684,
     "open_issues_count": 21,
-    "forks_count": 97
+    "forks_count": 96
   },
   {
     "full_name": "actions/typescript-action",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 15478,
-    "open_issues_count": 730,
+    "stargazers_count": 15481,
+    "open_issues_count": 731,
     "forks_count": 2780
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6438,
+    "stargazers_count": 6439,
     "open_issues_count": 234,
     "forks_count": 647
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 5638,
+    "stargazers_count": 5639,
     "open_issues_count": 44,
     "forks_count": 206
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 719,
+    "stargazers_count": 720,
     "open_issues_count": 16,
     "forks_count": 315
   }
