@@ -49,8 +49,8 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 41956,
-    "open_issues_count": 698,
+    "stargazers_count": 41955,
+    "open_issues_count": 696,
     "forks_count": 1993
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 19305,
+    "stargazers_count": 19306,
     "open_issues_count": 141,
-    "forks_count": 1383
+    "forks_count": 1384
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 44240,
+    "stargazers_count": 44241,
     "open_issues_count": 717,
-    "forks_count": 7440
+    "forks_count": 7439
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6560,
+    "stargazers_count": 6561,
     "open_issues_count": 241,
     "forks_count": 665
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "saulpw/visidata",
-    "stargazers_count": 5851,
+    "stargazers_count": 5852,
     "open_issues_count": 54,
     "forks_count": 215
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 779,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 379
   }
 ]
