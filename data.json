@@ -2,19 +2,19 @@
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 6,
-    "open_issues_count": 12,
-    "forks_count": 3
+    "open_issues_count": 17,
+    "forks_count": 4
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 155,
-    "open_issues_count": 28,
-    "forks_count": 63
+    "stargazers_count": 156,
+    "open_issues_count": 29,
+    "forks_count": 64
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 23938,
-    "open_issues_count": 125,
+    "stargazers_count": 23988,
+    "open_issues_count": 118,
     "forks_count": 3703
   },
   {
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 44527,
-    "open_issues_count": 731,
-    "forks_count": 7498
+    "stargazers_count": 44596,
+    "open_issues_count": 737,
+    "forks_count": 7509
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1193,
+    "stargazers_count": 1195,
     "open_issues_count": 40,
     "forks_count": 305
   },
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6581,
+    "stargazers_count": 6589,
     "open_issues_count": 41,
-    "forks_count": 1612
+    "forks_count": 1614
   },
   {
     "full_name": "all-contributors/app",
-    "stargazers_count": 465,
-    "open_issues_count": 33,
-    "forks_count": 152
+    "stargazers_count": 466,
+    "open_issues_count": 34,
+    "forks_count": 153
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1916,
-    "open_issues_count": 185,
-    "forks_count": 66742
+    "stargazers_count": 1919,
+    "open_issues_count": 188,
+    "forks_count": 66789
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 25,
     "forks_count": 30
   }
