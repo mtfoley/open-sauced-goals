@@ -1,21 +1,21 @@
 [
   {
     "full_name": "open-sauced/api.opensauced.pizza",
-    "stargazers_count": 7,
-    "open_issues_count": 21,
-    "forks_count": 4
+    "stargazers_count": 9,
+    "open_issues_count": 20,
+    "forks_count": 5
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 173,
-    "open_issues_count": 32,
+    "stargazers_count": 174,
+    "open_issues_count": 33,
     "forks_count": 68
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 24122,
-    "open_issues_count": 119,
-    "forks_count": 3705
+    "stargazers_count": 24289,
+    "open_issues_count": 120,
+    "forks_count": 3708
   },
   {
     "full_name": "brob/plug11ty.com",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 44782,
+    "stargazers_count": 44852,
     "open_issues_count": 744,
-    "forks_count": 7532
+    "forks_count": 7553
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1202,
-    "open_issues_count": 40,
-    "forks_count": 309
+    "stargazers_count": 1207,
+    "open_issues_count": 39,
+    "forks_count": 311
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -44,7 +44,7 @@
   {
     "full_name": "open-sauced/actions",
     "stargazers_count": 6,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 10
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6617,
+    "stargazers_count": 6626,
     "open_issues_count": 43,
-    "forks_count": 1629
+    "forks_count": 1637
   },
   {
     "full_name": "all-contributors/app",
-    "stargazers_count": 469,
+    "stargazers_count": 471,
     "open_issues_count": 33,
-    "forks_count": 154
+    "forks_count": 153
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 1924,
-    "open_issues_count": 208,
-    "forks_count": 66905
+    "stargazers_count": 1930,
+    "open_issues_count": 213,
+    "forks_count": 66955
   },
   {
     "full_name": "Team-TAU/tau",
