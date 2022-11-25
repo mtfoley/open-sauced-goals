@@ -2,38 +2,38 @@
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 10,
-    "open_issues_count": 22,
+    "open_issues_count": 21,
     "forks_count": 5
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 192,
+    "stargazers_count": 191,
     "open_issues_count": 33,
-    "forks_count": 72
+    "forks_count": 71
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 24818,
-    "open_issues_count": 125,
-    "forks_count": 3714
+    "stargazers_count": 24880,
+    "open_issues_count": 124,
+    "forks_count": 3713
   },
   {
     "full_name": "brob/plug11ty.com",
     "stargazers_count": 12,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 18
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 45552,
-    "open_issues_count": 791,
-    "forks_count": 7677
+    "stargazers_count": 45601,
+    "open_issues_count": 794,
+    "forks_count": 7679
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1238,
+    "stargazers_count": 1241,
     "open_issues_count": 39,
-    "forks_count": 315
+    "forks_count": 317
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6699,
+    "stargazers_count": 6706,
     "open_issues_count": 46,
-    "forks_count": 1665
+    "forks_count": 1666
   },
   {
     "full_name": "all-contributors/app",
-    "stargazers_count": 472,
-    "open_issues_count": 35,
+    "stargazers_count": 475,
+    "open_issues_count": 36,
     "forks_count": 151
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
     "stargazers_count": 1964,
-    "open_issues_count": 252,
-    "forks_count": 67392
+    "open_issues_count": 255,
+    "forks_count": 67423
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 25,
-    "forks_count": 33
+    "forks_count": 34
   }
 ]
