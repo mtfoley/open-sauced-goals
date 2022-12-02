@@ -2,20 +2,20 @@
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 11,
-    "open_issues_count": 21,
-    "forks_count": 5
+    "open_issues_count": 20,
+    "forks_count": 6
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 191,
-    "open_issues_count": 34,
+    "stargazers_count": 192,
+    "open_issues_count": 45,
     "forks_count": 71
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 24962,
+    "stargazers_count": 25037,
     "open_issues_count": 124,
-    "forks_count": 3713
+    "forks_count": 3714
   },
   {
     "full_name": "brob/plug11ty.com",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 45648,
-    "open_issues_count": 796,
-    "forks_count": 7689
+    "stargazers_count": 45705,
+    "open_issues_count": 812,
+    "forks_count": 7703
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1242,
+    "stargazers_count": 1248,
     "open_issues_count": 40,
-    "forks_count": 317
+    "forks_count": 318
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6714,
-    "open_issues_count": 46,
-    "forks_count": 1669
+    "stargazers_count": 6724,
+    "open_issues_count": 45,
+    "forks_count": 1673
   },
   {
     "full_name": "all-contributors/app",
-    "stargazers_count": 478,
+    "stargazers_count": 480,
     "open_issues_count": 36,
     "forks_count": 151
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
     "stargazers_count": 1966,
-    "open_issues_count": 265,
-    "forks_count": 67482
+    "open_issues_count": 276,
+    "forks_count": 67519
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 25,
     "forks_count": 34
   }
