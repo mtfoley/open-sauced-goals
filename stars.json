@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "mtfoley/copy-issues-action",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 11768,
-    "open_issues_count": 242,
-    "forks_count": 2034
+    "stargazers_count": 11780,
+    "open_issues_count": 230,
+    "forks_count": 2040
   },
   {
     "full_name": "LearningTypeScript/projects",
-    "stargazers_count": 81,
-    "open_issues_count": 10,
+    "stargazers_count": 83,
+    "open_issues_count": 9,
     "forks_count": 52
   },
   {
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 26,
-    "open_issues_count": 16,
-    "forks_count": 7
+    "stargazers_count": 27,
+    "open_issues_count": 15,
+    "forks_count": 8
   },
   {
     "full_name": "pa11y/pa11y",
-    "stargazers_count": 3543,
+    "stargazers_count": 3544,
     "open_issues_count": 44,
     "forks_count": 243
   },
@@ -31,19 +37,19 @@
   },
   {
     "full_name": "cbh123/charl-e",
-    "stargazers_count": 412,
+    "stargazers_count": 416,
     "open_issues_count": 12,
     "forks_count": 16
   },
   {
     "full_name": "testing-library/playwright-testing-library",
-    "stargazers_count": 224,
+    "stargazers_count": 225,
     "open_issues_count": 19,
     "forks_count": 7
   },
   {
     "full_name": "dequelabs/axe-core-npm",
-    "stargazers_count": 436,
+    "stargazers_count": 437,
     "open_issues_count": 40,
     "forks_count": 39
   },
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2129,
-    "open_issues_count": 158,
+    "stargazers_count": 2133,
+    "open_issues_count": 149,
     "forks_count": 90
   },
   {
@@ -85,31 +91,31 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 46130,
-    "open_issues_count": 705,
-    "forks_count": 2252
+    "stargazers_count": 46212,
+    "open_issues_count": 709,
+    "forks_count": 2259
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 206,
-    "open_issues_count": 43,
-    "forks_count": 77
+    "stargazers_count": 207,
+    "open_issues_count": 41,
+    "forks_count": 78
   },
   {
     "full_name": "dequelabs/axe-core",
-    "stargazers_count": 4904,
-    "open_issues_count": 209,
-    "forks_count": 695
+    "stargazers_count": 4906,
+    "open_issues_count": 212,
+    "forks_count": 698
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 20305,
-    "open_issues_count": 144,
-    "forks_count": 1452
+    "stargazers_count": 20322,
+    "open_issues_count": 139,
+    "forks_count": 1454
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
-    "stargazers_count": 197,
+    "stargazers_count": 196,
     "open_issues_count": 6,
     "forks_count": 10
   },
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 46174,
+    "stargazers_count": 46208,
     "open_issues_count": 837,
-    "forks_count": 7770
+    "forks_count": 7778
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -133,33 +139,33 @@
   },
   {
     "full_name": "aws/jsii",
-    "stargazers_count": 2171,
-    "open_issues_count": 256,
-    "forks_count": 192
+    "stargazers_count": 2173,
+    "open_issues_count": 261,
+    "forks_count": 193
   },
   {
     "full_name": "vercel-community/php",
-    "stargazers_count": 767,
+    "stargazers_count": 768,
     "open_issues_count": 30,
-    "forks_count": 112
+    "forks_count": 113
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1284,
+    "stargazers_count": 1292,
     "open_issues_count": 44,
-    "forks_count": 329
+    "forks_count": 330
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 15985,
-    "open_issues_count": 828,
-    "forks_count": 2904
+    "stargazers_count": 15998,
+    "open_issues_count": 831,
+    "forks_count": 2903
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6774,
+    "stargazers_count": 6780,
     "open_issues_count": 252,
-    "forks_count": 675
+    "forks_count": 676
   },
   {
     "full_name": "open-sauced/actions",
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 7,
     "forks_count": 2
-  },
-  {
-    "full_name": "chadstewart/tech-is-hiring-search-management-tool",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
