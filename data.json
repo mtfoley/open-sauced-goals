@@ -1,39 +1,39 @@
 [
   {
     "full_name": "open-sauced/api.opensauced.pizza",
-    "stargazers_count": 16,
-    "open_issues_count": 21,
+    "stargazers_count": 15,
+    "open_issues_count": 20,
     "forks_count": 7
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 220,
-    "open_issues_count": 39,
-    "forks_count": 80
+    "stargazers_count": 219,
+    "open_issues_count": 40,
+    "forks_count": 79
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 26156,
-    "open_issues_count": 131,
-    "forks_count": 3743
+    "stargazers_count": 26216,
+    "open_issues_count": 133,
+    "forks_count": 3744
   },
   {
     "full_name": "brob/plug11ty.com",
     "stargazers_count": 12,
-    "open_issues_count": 15,
+    "open_issues_count": 14,
     "forks_count": 21
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 46526,
-    "open_issues_count": 830,
-    "forks_count": 7833
+    "stargazers_count": 46568,
+    "open_issues_count": 845,
+    "forks_count": 7839
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1316,
+    "stargazers_count": 1322,
     "open_issues_count": 47,
-    "forks_count": 342
+    "forks_count": 346
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "open-sauced/actions",
-    "stargazers_count": 8,
+    "stargazers_count": 7,
     "open_issues_count": 5,
     "forks_count": 10
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 6844,
+    "stargazers_count": 6845,
     "open_issues_count": 53,
-    "forks_count": 1718
+    "forks_count": 1722
   },
   {
     "full_name": "all-contributors/app",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 2026,
-    "open_issues_count": 184,
-    "forks_count": 68251
+    "stargazers_count": 2030,
+    "open_issues_count": 188,
+    "forks_count": 68278
   },
   {
     "full_name": "Team-TAU/tau",
