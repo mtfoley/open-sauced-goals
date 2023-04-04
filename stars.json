@@ -1,7 +1,7 @@
 [
   {
     "full_name": "adamelmore/good-repo",
-    "stargazers_count": 1397,
+    "stargazers_count": 1393,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -18,7 +18,7 @@
     "forks_count": 0
   },
   {
-    "full_name": "TAKANOME-DEV/BlogHive",
+    "full_name": "takanome-dev/BlogHive",
     "stargazers_count": 9,
     "open_issues_count": 6,
     "forks_count": 2
@@ -31,25 +31,25 @@
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 12264,
-    "open_issues_count": 279,
-    "forks_count": 2117
+    "stargazers_count": 12280,
+    "open_issues_count": 293,
+    "forks_count": 2122
   },
   {
     "full_name": "LearningTypeScript/projects",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 8,
-    "forks_count": 73
+    "forks_count": 75
   },
   {
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 120,
-    "open_issues_count": 28,
+    "stargazers_count": 127,
+    "open_issues_count": 32,
     "forks_count": 21
   },
   {
     "full_name": "pa11y/pa11y",
-    "stargazers_count": 3587,
+    "stargazers_count": 3590,
     "open_issues_count": 48,
     "forks_count": 246
   },
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "testing-library/playwright-testing-library",
-    "stargazers_count": 235,
+    "stargazers_count": 236,
     "open_issues_count": 20,
     "forks_count": 8
   },
   {
     "full_name": "dequelabs/axe-core-npm",
     "stargazers_count": 465,
-    "open_issues_count": 67,
-    "forks_count": 43
+    "open_issues_count": 69,
+    "forks_count": 44
   },
   {
     "full_name": "open-sauced/api.opensauced.pizza",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 354,
+    "stargazers_count": 357,
     "open_issues_count": 31,
     "forks_count": 34
   },
@@ -103,39 +103,39 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2210,
-    "open_issues_count": 171,
-    "forks_count": 90
+    "stargazers_count": 2217,
+    "open_issues_count": 172,
+    "forks_count": 91
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 14,
     "forks_count": 11
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 49142,
+    "stargazers_count": 49262,
     "open_issues_count": 768,
-    "forks_count": 2435
+    "forks_count": 2446
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 246,
+    "stargazers_count": 248,
     "open_issues_count": 41,
     "forks_count": 87
   },
   {
     "full_name": "dequelabs/axe-core",
-    "stargazers_count": 5031,
-    "open_issues_count": 231,
-    "forks_count": 723
+    "stargazers_count": 5034,
+    "open_issues_count": 234,
+    "forks_count": 724
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 21166,
+    "stargazers_count": 21227,
     "open_issues_count": 144,
-    "forks_count": 1510
+    "forks_count": 1516
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 47404,
-    "open_issues_count": 863,
-    "forks_count": 8003
+    "stargazers_count": 47463,
+    "open_issues_count": 864,
+    "forks_count": 8022
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -164,19 +164,19 @@
   {
     "full_name": "aws/jsii",
     "stargazers_count": 2260,
-    "open_issues_count": 278,
+    "open_issues_count": 277,
     "forks_count": 208
   },
   {
     "full_name": "vercel-community/php",
-    "stargazers_count": 814,
-    "open_issues_count": 31,
-    "forks_count": 127
+    "stargazers_count": 818,
+    "open_issues_count": 32,
+    "forks_count": 128
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1383,
-    "open_issues_count": 50,
-    "forks_count": 370
+    "stargazers_count": 1385,
+    "open_issues_count": 51,
+    "forks_count": 371
   }
 ]
