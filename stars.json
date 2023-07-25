@@ -13,9 +13,9 @@
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 27371,
+    "stargazers_count": 27440,
     "open_issues_count": 53,
-    "forks_count": 1358
+    "forks_count": 1360
   },
   {
     "full_name": "adamelmore/good-repo",
@@ -49,25 +49,25 @@
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 12832,
-    "open_issues_count": 321,
-    "forks_count": 2203
+    "stargazers_count": 12845,
+    "open_issues_count": 331,
+    "forks_count": 2207
   },
   {
     "full_name": "LearningTypeScript/projects",
-    "stargazers_count": 148,
+    "stargazers_count": 151,
     "open_issues_count": 10,
     "forks_count": 97
   },
   {
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 293,
+    "stargazers_count": 297,
     "open_issues_count": 35,
     "forks_count": 32
   },
   {
     "full_name": "pa11y/pa11y",
-    "stargazers_count": 3657,
+    "stargazers_count": 3658,
     "open_issues_count": 51,
     "forks_count": 250
   },
@@ -85,26 +85,26 @@
   },
   {
     "full_name": "testing-library/playwright-testing-library",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 22,
     "forks_count": 8
   },
   {
     "full_name": "dequelabs/axe-core-npm",
-    "stargazers_count": 496,
+    "stargazers_count": 498,
     "open_issues_count": 67,
     "forks_count": 48
   },
   {
     "full_name": "open-sauced/api",
-    "stargazers_count": 25,
-    "open_issues_count": 23,
-    "forks_count": 13
+    "stargazers_count": 26,
+    "open_issues_count": 26,
+    "forks_count": 16
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 438,
-    "open_issues_count": 29,
+    "stargazers_count": 441,
+    "open_issues_count": 32,
     "forks_count": 44
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2363,
-    "open_issues_count": 197,
+    "stargazers_count": 2366,
+    "open_issues_count": 198,
     "forks_count": 94
   },
   {
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 53090,
-    "open_issues_count": 638,
-    "forks_count": 2897
+    "stargazers_count": 53180,
+    "open_issues_count": 629,
+    "forks_count": 2902
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 314,
+    "stargazers_count": 316,
     "open_issues_count": 32,
-    "forks_count": 107
+    "forks_count": 106
   },
   {
     "full_name": "dequelabs/axe-core",
-    "stargazers_count": 5202,
-    "open_issues_count": 260,
+    "stargazers_count": 5204,
+    "open_issues_count": 261,
     "forks_count": 753
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 22053,
-    "open_issues_count": 149,
-    "forks_count": 1578
+    "stargazers_count": 22081,
+    "open_issues_count": 148,
+    "forks_count": 1580
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 49124,
-    "open_issues_count": 885,
-    "forks_count": 8291
+    "stargazers_count": 49164,
+    "open_issues_count": 889,
+    "forks_count": 8294
   },
   {
     "full_name": "nickytonline/epic-actions",
