@@ -19,9 +19,9 @@
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 28648,
-    "open_issues_count": 61,
-    "forks_count": 1464
+    "stargazers_count": 28691,
+    "open_issues_count": 64,
+    "forks_count": 1471
   },
   {
     "full_name": "adamelmore/good-repo",
@@ -44,31 +44,31 @@
   {
     "full_name": "takanome-dev/BlogHive",
     "stargazers_count": 8,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 2
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 13265,
-    "open_issues_count": 315,
+    "stargazers_count": 13286,
+    "open_issues_count": 320,
     "forks_count": 2253
   },
   {
     "full_name": "LearningTypeScript/projects",
     "stargazers_count": 179,
     "open_issues_count": 11,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "JoshuaKGoldberg/create-typescript-app",
-    "stargazers_count": 417,
-    "open_issues_count": 53,
-    "forks_count": 44
+    "stargazers_count": 459,
+    "open_issues_count": 51,
+    "forks_count": 46
   },
   {
     "full_name": "pa11y/pa11y",
-    "stargazers_count": 3704,
-    "open_issues_count": 53,
+    "stargazers_count": 3708,
+    "open_issues_count": 51,
     "forks_count": 255
   },
   {
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "dequelabs/axe-core-npm",
-    "stargazers_count": 512,
-    "open_issues_count": 57,
+    "stargazers_count": 514,
+    "open_issues_count": 62,
     "forks_count": 51
   },
   {
     "full_name": "open-sauced/api",
     "stargazers_count": 33,
-    "open_issues_count": 42,
+    "open_issues_count": 39,
     "forks_count": 27
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 486,
-    "open_issues_count": 34,
-    "forks_count": 49
+    "stargazers_count": 489,
+    "open_issues_count": 35,
+    "forks_count": 50
   },
   {
     "full_name": "chadstewart/you-go-backend-project",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "terminusdb/terminusdb",
-    "stargazers_count": 2449,
-    "open_issues_count": 228,
+    "stargazers_count": 2451,
+    "open_issues_count": 229,
     "forks_count": 94
   },
   {
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 55354,
+    "stargazers_count": 55453,
     "open_issues_count": 695,
-    "forks_count": 3044
+    "forks_count": 3058
   },
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 339,
     "open_issues_count": 33,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "dequelabs/axe-core",
-    "stargazers_count": 5332,
-    "open_issues_count": 257,
-    "forks_count": 764
+    "stargazers_count": 5336,
+    "open_issues_count": 256,
+    "forks_count": 765
   },
   {
     "full_name": "firecracker-microvm/firecracker",
-    "stargazers_count": 22644,
-    "open_issues_count": 131,
-    "forks_count": 1619
+    "stargazers_count": 22665,
+    "open_issues_count": 124,
+    "forks_count": 1620
   },
   {
     "full_name": "kefimochi/sync-contribution-graph",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 50118,
-    "open_issues_count": 900,
-    "forks_count": 8542
+    "stargazers_count": 50176,
+    "open_issues_count": 907,
+    "forks_count": 8545
   },
   {
     "full_name": "nickytonline/epic-actions",
