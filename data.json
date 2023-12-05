@@ -1,39 +1,39 @@
 [
   {
     "full_name": "open-sauced/api",
-    "stargazers_count": 41,
-    "open_issues_count": 42,
-    "forks_count": 29
+    "stargazers_count": 42,
+    "open_issues_count": 45,
+    "forks_count": 33
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 364,
+    "stargazers_count": 366,
     "open_issues_count": 32,
     "forks_count": 117
   },
   {
     "full_name": "httpie/cli",
-    "stargazers_count": 30291,
-    "open_issues_count": 168,
-    "forks_count": 3833
+    "stargazers_count": 30317,
+    "open_issues_count": 169,
+    "forks_count": 3831
   },
   {
     "full_name": "brob/plug11ty.com",
     "stargazers_count": 12,
-    "open_issues_count": 14,
-    "forks_count": 20
+    "open_issues_count": 17,
+    "forks_count": 21
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 50800,
-    "open_issues_count": 943,
-    "forks_count": 8641
+    "stargazers_count": 50839,
+    "open_issues_count": 953,
+    "forks_count": 8647
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1636,
-    "open_issues_count": 4,
-    "forks_count": 545
+    "stargazers_count": 1638,
+    "open_issues_count": 0,
+    "forks_count": 544
   },
   {
     "full_name": "nickytonline/epic-actions",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "all-contributors/all-contributors",
-    "stargazers_count": 7293,
+    "stargazers_count": 7303,
     "open_issues_count": 77,
     "forks_count": 1790
   },
@@ -63,17 +63,17 @@
     "full_name": "all-contributors/app",
     "stargazers_count": 531,
     "open_issues_count": 52,
-    "forks_count": 176
+    "forks_count": 177
   },
   {
     "full_name": "nightscout/cgm-remote-monitor",
-    "stargazers_count": 2232,
+    "stargazers_count": 2234,
     "open_issues_count": 261,
-    "forks_count": 70701
+    "forks_count": 70727
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 27,
     "forks_count": 39
   }
